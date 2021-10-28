@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "S.Jayalakshmi",
+      "email": "jayalakshmisambamoorthi@gmail.com",
+      "mobile": "9070970521",
+      "address": "Dharmapuri",
+      "services": "Coffee "
+    },
+    {
+      "id": 6,
+      "name": "Mahalakshmi",
+      "email": "mahalakshmi@gmail.com",
+      "mobile": "6729375201",
+      "address": "Salem,Taminadu",
+      "services": "Coffee & Cake"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Manimaran",
+      "email": "manimaran2408@gmail.com",
+      "mobile": "7894104711",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "sharan",
+      "email": "sharan@gmail.com",
+      "mobile": "36578799",
+      "password": "123456789",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
